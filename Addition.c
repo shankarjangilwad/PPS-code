@@ -1,8 +1,3 @@
-/*PRN: 24030331372901
- Name: Siddhant Chandrakant Bhanat
- Title: Addition
- Date: 
-*/
 
 #include<stdio.h>
 int main()
